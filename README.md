@@ -17,7 +17,6 @@ Current App link - [App link](https://priceless-einstein-5575a2.netlify.app)
 
 ### App Layout
 
-![Screenshot from 2021-11-18 21-21-13](https://user-images.githubusercontent.com/48708220/142449592-85ea72ef-2c0e-4330-80ac-4e813cdacab6.png)
 
 
 This current app is only just a part of the above project.
